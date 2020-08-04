@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/:http//viharika123.github.io/tell/static/css/main.c2d7f642.chunk.css",
-    "main.js": "/:http//viharika123.github.io/tell/static/js/main.008cb925.chunk.js",
-    "main.js.map": "/:http//viharika123.github.io/tell/static/js/main.008cb925.chunk.js.map",
-    "runtime-main.js": "/:http//viharika123.github.io/tell/static/js/runtime-main.60d0eee3.js",
-    "runtime-main.js.map": "/:http//viharika123.github.io/tell/static/js/runtime-main.60d0eee3.js.map",
-    "static/js/2.72442180.chunk.js": "/:http//viharika123.github.io/tell/static/js/2.72442180.chunk.js",
-    "static/js/2.72442180.chunk.js.map": "/:http//viharika123.github.io/tell/static/js/2.72442180.chunk.js.map",
-    "index.html": "/:http//viharika123.github.io/tell/index.html",
-    "precache-manifest.ad787164533a2243f3c958c213a898e5.js": "/:http//viharika123.github.io/tell/precache-manifest.ad787164533a2243f3c958c213a898e5.js",
-    "service-worker.js": "/:http//viharika123.github.io/tell/service-worker.js",
-    "static/css/main.c2d7f642.chunk.css.map": "/:http//viharika123.github.io/tell/static/css/main.c2d7f642.chunk.css.map",
-    "static/js/2.72442180.chunk.js.LICENSE.txt": "/:http//viharika123.github.io/tell/static/js/2.72442180.chunk.js.LICENSE.txt"
+    "main.css": "/:http//viharika123.github.io/test/static/css/main.c2d7f642.chunk.css",
+    "main.js": "/:http//viharika123.github.io/test/static/js/main.5a209b9e.chunk.js",
+    "main.js.map": "/:http//viharika123.github.io/test/static/js/main.5a209b9e.chunk.js.map",
+    "runtime-main.js": "/:http//viharika123.github.io/test/static/js/runtime-main.e0824f1a.js",
+    "runtime-main.js.map": "/:http//viharika123.github.io/test/static/js/runtime-main.e0824f1a.js.map",
+    "static/js/2.72442180.chunk.js": "/:http//viharika123.github.io/test/static/js/2.72442180.chunk.js",
+    "static/js/2.72442180.chunk.js.map": "/:http//viharika123.github.io/test/static/js/2.72442180.chunk.js.map",
+    "index.html": "/:http//viharika123.github.io/test/index.html",
+    "precache-manifest.f42c19ce32290863caed038de5653d72.js": "/:http//viharika123.github.io/test/precache-manifest.f42c19ce32290863caed038de5653d72.js",
+    "service-worker.js": "/:http//viharika123.github.io/test/service-worker.js",
+    "static/css/main.c2d7f642.chunk.css.map": "/:http//viharika123.github.io/test/static/css/main.c2d7f642.chunk.css.map",
+    "static/js/2.72442180.chunk.js.LICENSE.txt": "/:http//viharika123.github.io/test/static/js/2.72442180.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.60d0eee3.js",
+    "static/js/runtime-main.e0824f1a.js",
     "static/js/2.72442180.chunk.js",
     "static/css/main.c2d7f642.chunk.css",
-    "static/js/main.008cb925.chunk.js"
+    "static/js/main.5a209b9e.chunk.js"
   ]
 }
